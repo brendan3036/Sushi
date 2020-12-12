@@ -1,7 +1,7 @@
 # CMPE320 Project - Sush
 **Created by: Kamrin Langan, Brendan Karper. Joshua Kellogg**
 
-*This project was done for an Operating Systems course in the Spring semester of 2020.
+*This project was done for an Operating Systems course in the Spring semester of 2020.*
 
 *The following are requirements for sush*
 
